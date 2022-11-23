@@ -2,6 +2,7 @@
 
 - ⟴ URL Shortener Added
 - ⟴ Self Delete Added (Auto delete)
+- ⟴ Mannual Filter Delete Added (Auto delete)
 - ⟴ Filter On Off Option Added
 - ⟴ Custom Welcome Message
 - ⟴ URL Shortener Added
